@@ -1,0 +1,52 @@
+#titluFlag {
+    padding: 50px;
+    background-color: rgb(246, 170, 192);
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    width: 1407px;
+}
+
+.coloane label {
+    display: block;
+}
+
+.imag1,
+.imag2,
+.imag3 {
+    background-color: rgb(146, 146, 146);
+    height: 235px;
+    width: 480px;
+}
+
+.coloane1 {
+    text-align: center;
+    height: 200px;
+    width: 491px;
+    float: left;
+    display: block;
+}
+
+#imgtrei,
+#imgdoi,
+#imgunu {
+    height: 235px;
+    width: 482px;
+}
+
+#coloane1,
+#coloane2,
+#coloane3 {
+    border: 5px solid transparent;
+}
+
+.abc {
+    display: flex;
+    flex-direction: row;
+}
+
+#reset1 {
+    left: 47%;
+    top: 720px;
+    position: absolute;
+}
